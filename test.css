@@ -1,0 +1,64 @@
+#Header {
+    border: groove 8px white;
+    width: 600px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 10px;
+    text-align: center;
+    padding: 0px;
+    background-color: gold
+}
+
+#Header h1 {
+    font-size: 100px;
+    color: white;
+    font-weight: Bold;
+    font-family: "Passion One";
+}
+
+p {
+    color: white;
+    font-weight: bold;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+body {
+    background-color: #4b2e83
+}
+
+h3 {
+    color: white;
+    font-size: 40px;
+    font-family: "Passion One";
+    margin-bottom: 20px;
+    background-color: gold
+}
+
+#LeftNav {
+    width: 400px;
+    padding-bottom: 8px;
+    margin-bottom: 0px;
+    border: groove 8px white;
+    text-align: center;
+    float: left;
+    background-color: gold
+}
+
+#Content {
+    width: 700px;
+    padding-bottom: 15px;
+    padding-left: 15px;
+    padding-right: 15px;
+    margin-bottom: 10px;
+    margin-left: auto;
+    Margin-right: auto;
+    border: groove 8px white;
+    text-align: center;
+    background-color: gold
+}
+
+#Footer {
+    text-align: center;
+    border: groove 8px white;
+    background-color: gold
+}
